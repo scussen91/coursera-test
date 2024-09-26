@@ -1,1 +1,36 @@
+.navbar-header {
+  background: lightblue;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-size: 1.5em;
+  font-weight: bold;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
 
+}
+
+
+#nav-list a {
+  text-align: center;
+  border: 2px solid #000;
+  background: lightgoldenrodyellow;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+
+#menu-categories-titles {
+  margin-top: -10px;
+  margin-bottom: 30px;
+}
+
+.menu-item-tile {
+  background: lightgray;
+  margin: 0px 20px 10px 20px;
+}
+.menu-item-title {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
